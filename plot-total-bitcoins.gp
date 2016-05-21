@@ -9,8 +9,8 @@
 # Source: blockchain.info
 #
 set datafile separator ","
-inputFile = "total-bitcoins.csv"
-outputFile = "total-bitcoins.svg"
+inputFile = "data/total-bitcoins.csv"
+outputFile = "charts/total-bitcoins.svg"
 
 #
 # PNG Output

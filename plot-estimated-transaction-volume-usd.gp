@@ -9,8 +9,8 @@
 # Source: blockchain.info
 #
 set datafile separator ","
-inputFile = "estimated-transaction-volume-usd.csv"
-outputFile = "estimated-transaction-volume-usd.svg"
+inputFile = "data/estimated-transaction-volume-usd.csv"
+outputFile = "charts/estimated-transaction-volume-usd.svg"
 
 #
 # PNG Output

@@ -9,8 +9,8 @@
 # Source: blockchain.info
 #
 set datafile separator ","
-inputFile = "market-cap.csv"
-outputFile = "market-cap.svg"
+inputFile = "data/market-cap.csv"
+outputFile = "charts/market-cap.svg"
 
 #
 # PNG Output
