@@ -1,4 +1,10 @@
 #
+# This work is released under the public domain and is free of
+# any known copyright restrictions. For more details, please
+# check: https://creativecommons.org/publicdomain/zero/1.0/
+#
+
+#
 # Input is in CSV format
 # Source: blockchain.info
 #
