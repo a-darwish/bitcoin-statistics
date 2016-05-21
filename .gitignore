@@ -1,0 +1,7 @@
+
+# Output images
+*.png
+*.svg
+
+# Editor's backup files
+*~
